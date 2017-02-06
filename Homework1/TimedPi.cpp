@@ -12,7 +12,8 @@ int main() {
    // Get the number of simulations you want to perform
    printf ("How many simulations should I do?... ");
    n = GetUnsignedInteger ();
-
+   
+   // We use an arbitrary seed. In this case, I stick with 25.
    MTUniform(25);
 
    // Start the clock
