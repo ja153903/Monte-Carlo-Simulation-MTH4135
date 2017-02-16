@@ -1,6 +1,6 @@
 /*
 MTH 4135 Spring 2017
-Group Members: Jaime Abbariao, Nadime Uddin, Abdul Haque, Michelle Tam, Xuming Shi
+Group Members: Jaime Abbariao, Nadime Uddin, Abdul Haque, Michelle Tam
 */
 #include "Declarations.h"
 // type gcc TimedPi.cpp into command prompt to compile the code.
